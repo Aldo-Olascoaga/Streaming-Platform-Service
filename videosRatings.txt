@@ -1,0 +1,28 @@
+              ------* LIST OF MOVIES ON ALDO+ *-----
+[1] "BATMAN BEGINS"                                                RATING = 3
+[2] "BATMAN: THE DARK KNIGHT"                                      RATING = 5
+[3] "SHREK"                                                        RATING = 4
+[4] "CARS"                                                         RATING = 3
+[5] "THE AVENGERS"                                                 RATING = 4
+[6] "TOY STORY"                                                    RATING = 4
+[7] "TOY STORY 2"                                                  RATING = 5
+[8] "TOY STORY 3"                                                  RATING = 5
+[9] "MONSTERS, INC."                                               RATING = 5
+[10] "THE LION KING"                                               RATING = 4
+[11] "THOR"                                                        RATING = 4
+[12] "CAPTAIN AMERICA: THE FIRST AVENGER"                          RATING = 4      
+[13] "HULK"                                                        RATING = 3
+[14] "IRON MAN"                                                    RATING = 4
+[15] "STAR WARS: A NEW HOPE"                                       RATING = 5
+[16] "STAR WARS: THE EMPIRE STRIKES BACK"                          RATING = 5
+[17] "STAR WARS: RETURN OF THE JEDI"                               RATING = 5
+[18] "FOREST GUMP"                                                 RATING = 5
+[19] "THE LITTLE RASCALS"                                          RATING = 5
+[20] "HER"                                                         RATING = 5
+
+              ------* LIST OF SERIES ON ALDO+ *-----
+[1] "OBI-WAN KENOBI"                                               RATING = 5
+[2] "THE MANDALORIAN"                                              RATING = 5
+[3] "BLACK MIRROR"                                                 RATING = 5
+[4] "THE RANCH"                                                    RATING = 4
+[5] "TED LASSO"                                                    RATING = 5
